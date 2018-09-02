@@ -20,7 +20,7 @@ podcli is a command line podcast manager. You can subscribe to podcasts, downloa
 
 It’s pretty bare boned, but I’ve been using is exclusively for the past five years. Below is a screenshot.
 
-![podcli screenshot](/assets/podcli_screenshot.png)
+![podcli screenshot](/img/podcli_screenshot.png)
 
 You can download and get more information [here](https://github.com/bantonj/podcli).
 
